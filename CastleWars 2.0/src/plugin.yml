@@ -1,0 +1,10 @@
+name: CastleWars
+version: 1.0.0
+author: MrBonjur
+main: me.bonjur.Main
+
+
+commands:
+  leave:
+    description: Покинуть бой.
+
